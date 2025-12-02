@@ -1,9 +1,8 @@
 <h1 align="center">🌸 ¡Hola, soy Angie Torres!</h1>
 
 <p align="center">
-  <b>Backend Developer (Java) · Full-Stack Jr. · Ciencia + Tecnología</b><br/>
-  Fundadora de <b>Chewie Dev</b> · Siempre aprendiendo
-</p>
+  <b>Full-Stack Java Jr.  · Front-end Developer · Ciencia + Tecnología</b><br/>
+  </p>
 
 ---
 
@@ -17,31 +16,17 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 ## 💗 Tecnologías y herramientas
 
-### 🧠 Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Spring_Boot-ff9ad5?style=for-the-badge&logo=springboot&logoColor=000000" />
-  <img src="https://img.shields.io/badge/MySQL-ffb6e1?style=for-the-badge&logo=mysql&logoColor=000000" />
-  <img src="https://img.shields.io/badge/C%23-ffd1e8?style=for-the-badge&logo=csharp&logoColor=000000" />
-</p>
+🛠️ Herramientas
+<p> <img src="https://img.shields.io/badge/Git-ff006f?style=for-the-badge&logo=git&logoColor=000000" /> <img src="https://img.shields.io/badge/GitHub-ff4f9e?style=for-the-badge&logo=github&logoColor=000000" /> <img src="https://img.shields.io/badge/VSCode-ff80b5?style=for-the-badge&logo=visualstudiocode&logoColor=000000" /> <img src="https://img.shields.io/badge/Visual_Studio-ff9ad5?style=for-the-badge&logo=visualstudio&logoColor=000000" /> <img src="https://img.shields.io/badge/Eclipse_IDE-ffb6e1?style=for-the-badge&logo=eclipseide&logoColor=000000" /> <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-ffe4f3?style=for-the-badge&logo=amazonaws&logoColor=000000" /> </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-f97fb0?style=for-the-badge&logo=html5&logoColor=000000" />
-  <img src="https://img.shields.io/badge/CSS3-ff80b5?style=for-the-badge&logo=css3&logoColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-ffb6e1?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Bootstrap-ffd1e8?style=for-the-badge&logo=bootstrap&logoColor=000000" />
-</p>
+💗 Frontend
+<p> <img src="https://img.shields.io/badge/HTML5-ff006f?style=for-the-badge&logo=html5&logoColor=000000" /> <img src="https://img.shields.io/badge/CSS3-ff4f9e?style=for-the-badge&logo=css3&logoColor=000000" /> <img src="https://img.shields.io/badge/JavaScript-ff80b5?style=for-the-badge&logo=javascript&logoColor=000000" /> <img src="https://img.shields.io/badge/React-ffb6e1?style=for-the-badge&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Bootstrap-ffd1e8?style=for-the-badge&logo=bootstrap&logoColor=000000" /> </p>
 
-### 🛠️ Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-ff6fae?style=for-the-badge&logo=git&logoColor=000000" />
-  <img src="https://img.shields.io/badge/GitHub-ff9ad5?style=for-the-badge&logo=github&logoColor=000000" />
-  <img src="https://img.shields.io/badge/VSCode-ffb6e1?style=for-the-badge&logo=visualstudiocode&logoColor=000000" />
-  <img src="https://img.shields.io/badge/IntelliJ-ff80b5?style=for-the-badge&logo=intellijidea&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Postman-f97fb0?style=for-the-badge&logo=postman&logoColor=000000" />
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_(en_curso)-ffd1e8?style=for-the-badge&logo=amazonaws&logoColor=000000" />
-</p>
+🌸 Backend
+<p> <img src="https://img.shields.io/badge/Java-ff006f?style=for-the-badge&logo=openjdk&logoColor=000000" /> <img src="https://img.shields.io/badge/Spring_Boot-ff4f9e?style=for-the-badge&logo=springboot&logoColor=000000" /> <img src="https://img.shields.io/badge/MySQL-ff80b5?style=for-the-badge&logo=mysql&logoColor=000000" /> <img src="https://img.shields.io/badge/C%23-ff9ad5?style=for-the-badge&logo=csharp&logoColor=000000" /> </p>
+
+📊 Análisis de Datos
+<p> <img src="https://img.shields.io/badge/Python-ff006f?style=for-the-badge&logo=python&logoColor=000000" /> <img src="https://img.shields.io/badge/SQL-ff4f9e?style=for-the-badge&logo=postgresql&logoColor=000000" /> </p>
 
 ---
 
@@ -60,52 +45,45 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 ## 📌 Proyectos destacados
 
-### 🧵 Maíz Fundido — E-commerce de accesorios 3D
-Sitio web con catálogo, diseño responsivo y enfoque visual para una marca de impresión 3D.  
-Tecnologías: **HTML, CSS, Bootstrap, JavaScript**  
-🔗 Repositorio: https://github.com/Angie-Torres-M/Angie-Torres-M_1erPagMF  
-🔗 Demo: *(agrega tu GitHub Pages si ya lo tienes)*
+### Maíz Fundido — E-commerce de accesorios 3D
+**Tecnologías:** HTML + CSS + Bootstrap + JavaScript  
+**Descripción:** Sitio web para una marca de impresión 3D con catálogo visual, diseño responsivo y enfoque en experiencia de usuario.
+
+🔗 [Repositorio](https://github.com/Angie-Torres-M/MaizFundido)  🔗 [Demo](https://angie-torres-m.github.io/MaizFundido/)
 
 ---
 
-### ✈️ FunOnTrip — Plataforma de paquetes de viaje
-Proyecto e-commerce desarrollado durante un programa intensivo full-stack.  
-Incluye diseño, responsividad, consumo de datos y estructura escalable.  
-Tecnologías: **HTML, CSS, JS, Bootstrap, Java**  
-🔗 Repositorio: https://github.com/Angie-Torres-M/E-commerce_FunOnTrip_Equipo4  
-🔗 Demo: https://angie-torres-m.github.io/E-commerce_FunOnTrip_Equipo4/
+### FunOnTrip — Plataforma de paquetes de viaje
+**Tecnologías:** HTML + CSS + Bootstrap + JavaScript + Java  
+**Descripción:** Proyecto full-stack con diseño responsivo, manejo de datos, estructura escalable y consumo dinámico de información.
+
+🔗 [Repositorio](https://github.com/Angie-Torres-M/E-commerce_FunOnTrip_Equipo4)  🔗 [Demo](https://angie-torres-m.github.io/E-commerce_FunOnTrip_Equipo4/)
 
 ---
 
-### 🌡️ PEACH – Conversor de temperatura
-Proyecto educativo pensado para niños: simple, claro y responsivo.  
-Tecnologías: **HTML, CSS, JavaScript**  
-🔗 Repositorio: https://github.com/Angie-Torres-M/PEACH_TemperatureConversion
+### PEACH – Conversor de temperatura
+**Tecnologías:** HTML + CSS + JavaScript  
+**Descripción:** Proyecto educativo para enseñar física básica a niños con una interfaz clara y amigable.
+
+🔗 [Repositorio](https://github.com/Angie-Torres-M/PEACH_TemperatureConversion)  🔗 [Demo](https://angie-torres-m.github.io/PEACH_TemperatureConversion/)
+
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 🌐 Portafolio Web
+Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
+🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
+🔗 [Demo](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Angie-Torres-M&show_icons=true&theme=rose_pine&hide_border=true" 
-    alt="GitHub stats"
-/>
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angie-Torres-M&layout=compact&theme=rose_pine&hide_border=true" 
-    alt="Lenguajes más usados"
-/>
-</p>
+
 
 ---
 
 ## 🤝 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/AngieTorresM" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Angie_Torres-ff69b4?style=for-the-badge&logo=linkedin&logoColor=000000" />
   </a>
   <a href="mailto:angelica.m.torres.morales@gmail.com">

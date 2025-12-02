@@ -14,6 +14,13 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 ---
 
+###  Portafolio Web
+Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
+🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
+🔗 [Demo](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
+
+---
+
 ## 💗 Tecnologías y herramientas
 
 🛠️ Herramientas
@@ -58,16 +65,6 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 **Descripción:** Proyecto full-stack con diseño responsivo, manejo de datos, estructura escalable y consumo dinámico de información.
 
 🔗 [Repositorio](https://github.com/Angie-Torres-M/E-commerce_FunOnTrip_Equipo4)  🔗 [Demo](https://angie-torres-m.github.io/E-commerce_FunOnTrip_Equipo4/)
-
----
-
-###  Portafolio Web
-Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
-🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
-🔗 [Demo](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
-
-
-
 
 ---
 

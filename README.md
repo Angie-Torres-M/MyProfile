@@ -14,12 +14,12 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
 🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
-🔗 [Demo](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
+🔗 [Portafolio.github.io](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
 
 ##  <h1 align="center"> Tecnologías y herramientas </h1>
 
 🛠️ Herramientas
-<p> <img src="https://img.shields.io/badge/Git-ff006f?style=for-the-badge&logo=git&logoColor=000000" /> <img src="https://img.shields.io/badge/GitHub-ff4f9e?style=for-the-badge&logo=github&logoColor=000000" /> <img src="https://img.shields.io/badge/VSCode-ff80b5?style=for-the-badge&logo=visualstudiocode&logoColor=000000" /> <img src="https://img.shields.io/badge/Visual_Studio-ff9ad5?style=for-the-badge&logo=visualstudio&logoColor=000000" /> <img src="https://img.shields.io/badge/Eclipse_IDE-ffb6e1?style=for-the-badge&logo=eclipseide&logoColor=000000" /> <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-ffe4f3?style=for-the-badge&logo=amazonaws&logoColor=000000" /> </p>
+<p> <img src="https://img.shields.io/badge/Git-ff006f?style=for-the-badge&logo=git&logoColor=000000" /> <img src="https://img.shields.io/badge/GitHub-ff4f9e?style=for-the-badge&logo=github&logoColor=000000" /> <img src="https://img.shields.io/badge/VSCode-ff80b5?style=for-the-badge&logo=visualstudiocode&logoColor=000000" /> <img src="https://img.shields.io/badge/VS-ff9ad5?style=for-the-badge&logo=visualstudio&logoColor=000000" /> <img src="https://img.shields.io/badge/Eclipse_IDE-ffb6e1?style=for-the-badge&logo=eclipseide&logoColor=000000" /> <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-ffe4f3?style=for-the-badge&logo=amazonaws&logoColor=000000" /> </p>
 
 💗 Frontend
 <p> <img src="https://img.shields.io/badge/HTML5-ff006f?style=for-the-badge&logo=html5&logoColor=000000" /> <img src="https://img.shields.io/badge/CSS3-ff4f9e?style=for-the-badge&logo=css3&logoColor=000000" /> <img src="https://img.shields.io/badge/JavaScript-ff80b5?style=for-the-badge&logo=javascript&logoColor=000000" /> <img src="https://img.shields.io/badge/React-ffb6e1?style=for-the-badge&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Bootstrap-ffd1e8?style=for-the-badge&logo=bootstrap&logoColor=000000" /> </p>

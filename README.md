@@ -13,8 +13,16 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 ### <h1 align="center"> Portafolio </h1>
 
 Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
-🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
-🔗 [Portafolio.github.io](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
+<div align="center">    
+<a href="https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres" target="_blank">
+  <img src="https://img.shields.io/badge/Repositorio-1ABF9F?style=for-the-badge&logo=github&logoColor=000" />
+</a>
+
+<a href="https://angie-torres-m.github.io/MiPortafolio_AngieTorres/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-7EE8D1?style=for-the-badge&logo=githubpages&logoColor=000" />
+</a>
+
+</div>
 
 ##  <h1 align="center"> Tecnologías y herramientas </h1>
 
@@ -41,29 +49,46 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
 </p>
 
 ##  <h1 align="center"> Proyectos destacados</h1>
-
 ### Maíz Fundido — E-commerce de accesorios 3D
 **Tecnologías:** HTML + CSS + Bootstrap + JavaScript  
 **Descripción:** Sitio web para una marca de impresión 3D con catálogo visual, diseño responsivo y enfoque en experiencia de usuario.
 
-🔗 [Repositorio](https://github.com/Angie-Torres-M/MaizFundido)  🔗 [Demo](https://angie-torres-m.github.io/MaizFundido/)
+<div align="center">
+  <a href="https://github.com/Angie-Torres-M/MaizFundido" target="_blank">
+    <img src="https://img.shields.io/badge/Repositorio-33d6c9?style=for-the-badge&logo=github&logoColor=000000" />
+  </a>
+  <a href="https://angie-torres-m.github.io/MaizFundido/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-99ece4?style=for-the-badge&logo=githubpages&logoColor=000000" />
+  </a>
+</div>
 
 ### FunOnTrip — Plataforma de paquetes de viaje
 **Tecnologías:** HTML + CSS + Bootstrap + JavaScript + Java  
 **Descripción:** Proyecto full-stack con diseño responsivo, manejo de datos, estructura escalable y consumo dinámico de información.
 
-🔗 [Repositorio](https://github.com/Angie-Torres-M/E-commerce_FunOnTrip_Equipo4)  🔗 [Demo](https://angie-torres-m.github.io/E-commerce_FunOnTrip_Equipo4/)
+<div align="center">
+  <a href="https://github.com/Angie-Torres-M/E-commerce_FunOnTrip_Equipo4" target="_blank">
+    <img src="https://img.shields.io/badge/Repositorio-33d6c9?style=for-the-badge&logo=github&logoColor=000000" />
+  </a>
+  <a href="https://angie-torres-m.github.io/E-commerce_FunOnTrip_Equipo4/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-99ece4?style=for-the-badge&logo=githubpages&logoColor=000000" />
+  </a>
+</div>
 
-##  <h1 align="center"> Conectemos</h1>
+
+## <h1 align="center"> 🤝 Conectemos</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/AngieTorresM" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Angie_Torres-ff69b4?style=for-the-badge&logo=linkedin&logoColor=000000" />
   </a>
-  <a href="mailto:angelica.m.torres.morales@gmail.com">
+  <a href="mailto:angelica.m.torres.morales@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contactarme-ff9ad5?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 </p>
+
+
+
 
 <p align="center">
   <i>Gracias por visitar mi perfil.</i>

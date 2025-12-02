@@ -4,23 +4,17 @@
   <b>Full-Stack Java Jr.  · Front-end Developer · Ciencia + Tecnología</b><br/>
   </p>
 
----
-
 ## <h1 align="center"> Sobre mí </h1>
 
 Soy una desarrolladora en transición desde hace tres años de la biología hacia la tecnología, con experiencia en desarrollo web, Java orientado a objetos y resolución de problemas.  
 Me interesa crear soluciones claras, útiles y bien estructuradas: desde interfaces accesibles hasta lógica backend y manejo de datos.  
 Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarrollo proyectos por mi cuenta y colaboro como freelance.
 
----
-
 ### <h1 align="center"> Portafolio </h1>
 
 Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
 🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
 🔗 [Demo](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
-
----
 
 ##  <h1 align="center"> Tecnologías y herramientas </h1>
 
@@ -36,10 +30,7 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
 📊 Análisis de Datos
 <p> <img src="https://img.shields.io/badge/Python-ff006f?style=for-the-badge&logo=python&logoColor=000000" /> <img src="https://img.shields.io/badge/SQL-ff4f9e?style=for-the-badge&logo=postgresql&logoColor=000000" /> </p>
 
----
-
 ## <h1 align="center">  Chewie Dev</h1>
-
 <p align="center">
   <img src="./logoChewieDarkMode.png" alt="Logo Chewie Dev" width="90" />
 </p>
@@ -49,8 +40,6 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
   proyectos hechos con cariño, detalle y enfoque humano.
 </p>
 
----
-
 ##  <h1 align="center"> Proyectos destacados</h1>
 
 ### Maíz Fundido — E-commerce de accesorios 3D
@@ -59,15 +48,11 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
 
 🔗 [Repositorio](https://github.com/Angie-Torres-M/MaizFundido)  🔗 [Demo](https://angie-torres-m.github.io/MaizFundido/)
 
----
-
 ### FunOnTrip — Plataforma de paquetes de viaje
 **Tecnologías:** HTML + CSS + Bootstrap + JavaScript + Java  
 **Descripción:** Proyecto full-stack con diseño responsivo, manejo de datos, estructura escalable y consumo dinámico de información.
 
 🔗 [Repositorio](https://github.com/Angie-Torres-M/E-commerce_FunOnTrip_Equipo4)  🔗 [Demo](https://angie-torres-m.github.io/E-commerce_FunOnTrip_Equipo4/)
-
----
 
 ##  <h1 align="center"> Conectemos</h1>
 
@@ -80,7 +65,6 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
   </a>
 </p>
 
----
 <p align="center">
   <i>Gracias por visitar mi perfil.</i>
 </p>

@@ -6,7 +6,7 @@
 
 ---
 
-## 🌼 Sobre mí
+## <h1 align="center"> Sobre mí </h1>
 
 Soy una desarrolladora en transición desde hace tres años de la biología hacia la tecnología, con experiencia en desarrollo web, Java orientado a objetos y resolución de problemas.  
 Me interesa crear soluciones claras, útiles y bien estructuradas: desde interfaces accesibles hasta lógica backend y manejo de datos.  
@@ -14,14 +14,15 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 ---
 
-###  Portafolio Web
+### <h1 align="center"> Portafolio </h1>
+
 Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
 🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
 🔗 [Demo](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
 
 ---
 
-## 💗 Tecnologías y herramientas
+##  <h1 align="center"> Tecnologías y herramientas </h1>
 
 🛠️ Herramientas
 <p> <img src="https://img.shields.io/badge/Git-ff006f?style=for-the-badge&logo=git&logoColor=000000" /> <img src="https://img.shields.io/badge/GitHub-ff4f9e?style=for-the-badge&logo=github&logoColor=000000" /> <img src="https://img.shields.io/badge/VSCode-ff80b5?style=for-the-badge&logo=visualstudiocode&logoColor=000000" /> <img src="https://img.shields.io/badge/Visual_Studio-ff9ad5?style=for-the-badge&logo=visualstudio&logoColor=000000" /> <img src="https://img.shields.io/badge/Eclipse_IDE-ffb6e1?style=for-the-badge&logo=eclipseide&logoColor=000000" /> <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-ffe4f3?style=for-the-badge&logo=amazonaws&logoColor=000000" /> </p>
@@ -37,7 +38,7 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
 
 ---
 
-## Chewie Dev
+## <h1 align="center">  Chewie Dev</h1>
 
 <p align="center">
   <img src="./logoChewieDarkMode.png" alt="Logo Chewie Dev" width="90" />
@@ -50,7 +51,7 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
 
 ---
 
-##  Proyectos destacados
+##  <h1 align="center"> Proyectos destacados</h1>
 
 ### Maíz Fundido — E-commerce de accesorios 3D
 **Tecnologías:** HTML + CSS + Bootstrap + JavaScript  
@@ -68,7 +69,7 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
 
 ---
 
-##  Conectemos
+##  <h1 align="center"> Conectemos</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/AngieTorresM" target="_blank">

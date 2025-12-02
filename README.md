@@ -8,7 +8,7 @@
 
 ## 🌼 Sobre mí
 
-Soy una desarrolladora en transición desde la biología hacia la tecnología, con experiencia en desarrollo web, Java orientado a objetos y resolución de problemas.  
+Soy una desarrolladora en transición desde hace tres años de la biología hacia la tecnología, con experiencia en desarrollo web, Java orientado a objetos y resolución de problemas.  
 Me interesa crear soluciones claras, útiles y bien estructuradas: desde interfaces accesibles hasta lógica backend y manejo de datos.  
 Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarrollo proyectos por mi cuenta y colaboro como freelance.
 

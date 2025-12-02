@@ -30,7 +30,7 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 ---
 
-## 🐶 Chewie Dev
+## Chewie Dev
 
 <p align="center">
   <img src="./logoChewieDarkMode.png" alt="Logo Chewie Dev" width="90" />
@@ -43,7 +43,7 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 ---
 
-## 📌 Proyectos destacados
+##  Proyectos destacados
 
 ### Maíz Fundido — E-commerce de accesorios 3D
 **Tecnologías:** HTML + CSS + Bootstrap + JavaScript  
@@ -61,16 +61,7 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 ---
 
-### PEACH – Conversor de temperatura
-**Tecnologías:** HTML + CSS + JavaScript  
-**Descripción:** Proyecto educativo para enseñar física básica a niños con una interfaz clara y amigable.
-
-🔗 [Repositorio](https://github.com/Angie-Torres-M/PEACH_TemperatureConversion)  🔗 [Demo](https://angie-torres-m.github.io/PEACH_TemperatureConversion/)
-
-
----
-
-### 🌐 Portafolio Web
+###  Portafolio Web
 Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
 🔗 [Repositorio](https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres)
 🔗 [Demo](https://angie-torres-m.github.io/MiPortafolio_AngieTorres/index.html) 
@@ -80,7 +71,7 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
 
 ---
 
-## 🤝 Conectemos
+##  Conectemos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/AngieTorresM" target="_blank">
